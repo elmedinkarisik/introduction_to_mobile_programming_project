@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rječnik arhaizama</string>
+    <string name="username">Korisničko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="login">Prijavi se</string>
+    <string name="register">Registrujte se</string>
+    <string name="attempts_left">Preostali pokušaji:</string>
+    <string name="dont_have_account">Nemate račun?</string>
+    <string name="description">Značenje:</string>
+    <string name="enter_word">Unesi riječ</string>
+    <string name="enter_description">Unesi značenje</string>
+    <string name="save">Sačuvaj</string>
+    <string name="guest">Nastavi bez računa</string>
+    <string name="registration_done">Završite registraciju</string>
+</resources>
